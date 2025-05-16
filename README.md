@@ -5,7 +5,7 @@ Olá! Sou um estudante independente de Pentest com foco em segurança ofensiva. 
 ## 🚀 Meus Projetos
 - 🔍 **PortScan-em-Python** – Scanner de portas simples em Python.
 - 🕵️‍♂️ **Dirscan-em-bash** – Ferramenta de força bruta para descoberta de diretórios.
-- 💻 **Servidor-TCP** – Servidor TCP com autenticação e logging em C.
+- 💻 **Servidor-TCP** – Servidor TCP com autenticação e log em python.
 
 ➡️ Veja todos os meus repositórios [aqui](https://github.com/0xReconDev?tab=repositories)
 
