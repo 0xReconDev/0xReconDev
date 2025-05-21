@@ -12,10 +12,10 @@ Olá! Sou um estudante independente de Pentest com foco em segurança ofensiva. 
 ➡️ Veja todos os meus repositórios [aqui](https://github.com/0xReconDev?tab=repositories)
 
 ## 📚 Aprendizado
-- Cursos gratuitos da **Desec Security**, **Solyd Offensive Security** e **Pentester Profissional Messias Eric**
+- Cursos gratuitos da **Desec Security**, **Solyd Offensive Security** e **Pentester Profissional Messias Eric**, **Tryhackme**
 - Praticante no [TryHackMe](https://tryhackme.com/p/0xReconDev).
 
-## 🧰 Tecnologias que uso
+## 🧰 Tecnologias que Utilizo
 ![My Skills](https://skillicons.dev/icons?i=python,bash,linux,nmap,c,github)
 
 ## 📫 Contato
