@@ -18,6 +18,12 @@ Olá! Sou um estudante independente de Pentest com foco em segurança ofensiva. 
 ## 🧰 Tecnologias que Utilizo
 ![My Skills](https://skillicons.dev/icons?i=python,bash,linux,nmap,c,github)
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xReconDev&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
 ## 📫 Contato
 - Email: 0xrecondevcontato@gmail.com
 - LinkedIn: [Perfil](https://www.linkedin.com/in/0xrecondev-66508a364/)
