@@ -1,5 +1,10 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/0xReconDev.png" alt="Your Image Badge" />
 
+<!-- TÍTULO ANIMADO -->
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=32&duration=2000&pause=500&color=FF00FF&center=true&vCenter=true&width=650&lines=0xReconDev;OFFENSIVE+SECURITY+UNIT;RECON+AUTOMATION+CORE;NEON+OVERCLOCK+MODE">
+</p>
+
 # 👨‍💻 0xReconDev
 
 Olá! Sou um estudante independente de Pentest com foco em segurança ofensiva. Tenho experiência prática com ferramentas como Nmap, Burp Suite, Gobuster e desenvolvo scripts em Python, Bash e C para automação de tarefas de segurança.
