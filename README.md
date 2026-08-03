@@ -15,8 +15,6 @@ https://medium.com/@devandcyber
 - Writing CTF writeups on Medium
 - Building tools with Python, Bash and C
 
----
-
 ## Featured Projects
 
 ### TCP/UDP Server Client
@@ -24,8 +22,6 @@ Python TCP and UDP communication scripts with logging support.
 
 ### CTF Writeups
 Documenting CTF methodologies and privilege escalation techniques.
-
----
 
 ## Links
 
