@@ -4,6 +4,9 @@
 🐧 Linux User  
 ⚡ Offensive Security & Pentesting  
 
+Medium:
+https://medium.com/@devandcyber
+
 ---
 
 ## About Me
@@ -13,19 +16,6 @@
 - CTF Player
 - Writing CTF writeups on Medium
 - Building tools with Python, Bash and C
-
----
-
-## Technologies
-
-- Python
-- Bash
-- C
-- Linux
-- Networking
-- SMB Enumeration
-- SSH
-- Privilege Escalation
 
 ---
 
