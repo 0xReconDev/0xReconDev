@@ -28,8 +28,5 @@ Documenting CTF methodologies and privilege escalation techniques.
 Medium:
 https://medium.com/@devandcyber
 
-GitHub:
-https://github.com/0xReconDev
-
 TryHackMe:
 https://tryhackme.com/p/0xReconDev
