@@ -7,8 +7,6 @@
 Medium:
 https://medium.com/@devandcyber
 
----
-
 ## About Me
 
 - Studying Pentesting and Offensive Security
