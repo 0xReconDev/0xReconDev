@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="Felipe Santos — 0xReconDev | Cybersecurity & Web Pentesting" width="100%" />
+<img src="./assets/baner.png" alt="Felipe Santos — 0xReconDev | Cybersecurity & Web Pentesting" width="100%" />
 
 ### Cybersecurity Student · Web Pentesting · Python Developer
 
