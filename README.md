@@ -2,9 +2,9 @@
 
 <img src="./assets/baner.png" alt="Felipe Santos — 0xReconDev | Cybersecurity & Web Pentesting" width="100%" />
 
-### Cybersecurity Student · Web Pentesting · Python Developer
+### Estudante de Cibersegurança · Pentest Web · Desenvolvedor Python
 
-Exploring offensive security, building networking tools, and documenting hands-on learning.
+Explorando segurança ofensiva, desenvolvendo ferramentas de redes e documentando meu aprendizado na prática.
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-9FE870?style=for-the-badge&logo=githubpages&logoColor=0D1110)](https://0xrecondev.github.io/portfolio/)
 [![TryHackMe](https://img.shields.io/badge/TRYHACKME-111714?style=for-the-badge&logo=tryhackme&logoColor=9FE870)](https://tryhackme.com/p/0xReconDev)
@@ -15,21 +15,21 @@ Exploring offensive security, building networking tools, and documenting hands-o
 
 ---
 
-## `> About me`
+## `> Sobre mim`
 
-I'm **Felipe Santos (0xReconDev)**, a cybersecurity student interested in **offensive security, web application security, Linux, and networking**.
+Sou **Felipe Santos (0xReconDev)**, estudante de cibersegurança com interesse em **segurança ofensiva, segurança de aplicações web, Linux e redes**.
 
-I work on Python, C, and Bash projects to deepen my understanding of systems and protocols, and I share what I learn through **CTF write-ups and practical labs**.
+Desenvolvo projetos em Python, C e Bash para aprofundar meus conhecimentos sobre sistemas e protocolos. Também compartilho meu aprendizado por meio de **write-ups de CTFs e laboratórios práticos**.
 
-## `> Tech stack`
+## `> Tecnologias e ferramentas`
 
-**Programming & scripting**
+**Programação e scripts**
 
 ![Python](https://img.shields.io/badge/Python-111714?style=for-the-badge&logo=python&logoColor=9FE870)
 ![C](https://img.shields.io/badge/C-111714?style=for-the-badge&logo=c&logoColor=9FE870)
 ![Bash](https://img.shields.io/badge/Bash-111714?style=for-the-badge&logo=gnubash&logoColor=9FE870)
 
-**Security & tools**
+**Segurança e ferramentas**
 
 ![Linux](https://img.shields.io/badge/Linux-111714?style=for-the-badge&logo=linux&logoColor=9FE870)
 ![Nmap](https://img.shields.io/badge/Nmap-111714?style=for-the-badge&logoColor=9FE870)
@@ -38,19 +38,19 @@ I work on Python, C, and Bash projects to deepen my understanding of systems and
 
 `TCP/IP` · `HTTP/HTTPS` · `SSH` · `SMB` · `Sockets` · `CTFs` · `Web Pentesting`
 
-## `> Featured projects`
+## `> Projetos em destaque`
 
-| Project | Focus |
+| Projeto | Descrição |
 |:---|:---|
-| **[Network Diagnostics Tool](https://github.com/0xReconDev/network-diagnostics-tool)** | Python · TCP port checks, network diagnostics and HTTP information gathering |
-| **[TCP/UDP Server–Client](https://github.com/0xReconDev/TCP-UDP-Server-Client)** | Python · Socket communication and session logging |
-| **[PortScan-C](https://github.com/0xReconDev/PortScan-C)** | C · TCP port connectivity checks |
-| **[PortScan-Python](https://github.com/0xReconDev/PortScan-Python)** | Python · TCP port connectivity checks |
-| **[Directory Enumeration Tool](https://github.com/0xReconDev/directory-enumeration-tool)** | Bash · Web directory enumeration |
+| **[Network Diagnostics Tool](https://github.com/0xReconDev/network-diagnostics-tool)** | Python · Verificação de portas TCP, diagnóstico de redes e coleta de informações HTTP |
+| **[TCP/UDP Server–Client](https://github.com/0xReconDev/TCP-UDP-Server-Client)** | Python · Comunicação via sockets e registro de sessões |
+| **[PortScan-C](https://github.com/0xReconDev/PortScan-C)** | C · Verificação de conectividade em portas TCP |
+| **[PortScan-Python](https://github.com/0xReconDev/PortScan-Python)** | Python · Verificação de conectividade em portas TCP |
+| **[Directory Enumeration Tool](https://github.com/0xReconDev/directory-enumeration-tool)** | Bash · Enumeração de diretórios web |
 
 <div align="center">
 
-**[Explore all repositories](https://github.com/0xReconDev?tab=repositories)**
+**[Ver todos os repositórios](https://github.com/0xReconDev?tab=repositories)**
 
 </div>
 
@@ -58,20 +58,20 @@ I work on Python, C, and Bash projects to deepen my understanding of systems and
 <tr>
 <td width="50%" valign="top">
 
-### 📝 Write-ups & research
+### 📝 Write-ups e estudos
 
-Documenting practical security exercises, enumeration and vulnerability exploitation in authorized labs.
+Documentação de exercícios de segurança, enumeração e exploração de vulnerabilidades em laboratórios autorizados.
 
-**[Read on Medium](https://medium.com/@devandcyber)**
+**[Ler artigos no Medium](https://medium.com/@devandcyber)**
 
 </td>
 <td width="50%" valign="top">
 
-### 🧩 CTFs & labs
+### 🧩 CTFs e laboratórios
 
-Practicing cybersecurity skills through hands-on challenges and technical investigations.
+Desenvolvimento de habilidades em cibersegurança por meio de desafios práticos e investigações técnicas.
 
-**[TryHackMe profile](https://tryhackme.com/p/0xReconDev)**
+**[Perfil no TryHackMe](https://tryhackme.com/p/0xReconDev)**
 
 </td>
 </tr>
@@ -83,8 +83,8 @@ Practicing cybersecurity skills through hands-on challenges and technical invest
 
 ### `> ./explore_portfolio.sh`
 
-**[Launch my interactive cybersecurity portfolio](https://0xrecondev.github.io/portfolio/)**
+**[Explorar meu portfólio interativo de cibersegurança](https://0xrecondev.github.io/portfolio/)**
 
-*Learning by doing. Documenting the process.*
+*Aprendendo na prática. Documentando o processo.*
 
 </div>
